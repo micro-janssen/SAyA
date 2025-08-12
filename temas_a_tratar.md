@@ -4,7 +4,8 @@
 ## Objetivos
 
 - Comprender los fundamentos de la electrónica de potencia aplicados a propulsión eléctrica y audio.
-
+- Fortalecer capacidades de instrumentación electrónica realizando ensayos de laboratorio.
+- Fortalecer la autonomía del alumno en la resolución de problemas y desarrollo de prototipos electrónicos.
 
 La idea es darles fundamentos de electrónica de potencia, señales analógicas y
 digitales con un enfoque a temas que fortalezcan las bases sobre propulsión
