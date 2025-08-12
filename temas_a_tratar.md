@@ -1,6 +1,10 @@
 # Sistemas de audio y accesorios
 
+
 ## Objetivos
+
+- Comprender los fundamentos de la electrónica de potencia aplicados a propulsión eléctrica y audio.
+
 
 La idea es darles fundamentos de electrónica de potencia, señales analógicas y
 digitales con un enfoque a temas que fortalezcan las bases sobre propulsión
